@@ -89,8 +89,6 @@ Value:
 - Not synthesizable; used only in simulation.
 
 #simulation output
-![Screenshot 2025-04-14 150630](https://github.com/user-attachments/assets/2ae68f22-6dc2-4d7f-9d85-0f93c0b610de)
 
-
-
+![Screenshot 2025-04-14 152246](https://github.com/user-attachments/assets/fc0dab6e-33b6-4259-a25c-ff62af3cc408)
 
