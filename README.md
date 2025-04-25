@@ -1,4 +1,4 @@
-# Degital-Design-using-verilog
+# Digital-Design-using-verilog
 Verilog codes and testbenches for digital design problems.
 
 ###Exploring Default Values and Bit Sizes of Verilog Data Types.
